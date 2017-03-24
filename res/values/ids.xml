@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="cast_notification_id" />
+    <item type="id" name="webview">false</item>
+    <item type="id" name="adLayout">false</item>
+    <item type="id" name="menu_logout">false</item>
+    <item type="id" name="menu_refresh">false</item>
+    <item type="id" name="menu_home">false</item>
+    <item type="id" name="menu_help">false</item>
+    <item type="id" name="menu_more">false</item>
+    <item type="id" name="menu_upgrade">false</item>
+</resources>
